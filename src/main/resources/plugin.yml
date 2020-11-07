@@ -1,0 +1,7 @@
+name: SuzakuChat
+version: 0.0.0
+authors: ['Genbuchan']
+depend: ['SuzakuCore']
+main: studio.genbu.suzakuchat.SuzakuChat
+
+load: STARTUP
